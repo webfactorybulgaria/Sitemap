@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "roumen/sitemap": "~2.5.6",
+        "roumen/sitemap": "~2.5.8",
         "webfactorybulgaria/core": "~4.0.0"
     },
     "autoload": {
