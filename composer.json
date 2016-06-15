@@ -10,7 +10,7 @@
     ],
     "require": {
         "roumen/sitemap": "~2.5.8",
-        "webfactorybulgaria/core": "dev-dev"
+        "webfactorybulgaria/core": "dev-dev@dev"
     },
     "autoload": {
         "psr-4": {
