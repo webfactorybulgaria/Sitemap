@@ -3,8 +3,8 @@
 namespace TypiCMS\Modules\Sitemap\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use TypiCMS\Modules\Core\Custom\Facades\TypiCMS;
-use TypiCMS\Modules\Pages\Custom\Facades\Facade as Pages;
+use TypiCMS\Modules\Core\Shells\Facades\TypiCMS;
+use TypiCMS\Modules\Pages\Shells\Facades\Facade as Pages;
 
 class PublicController extends Controller
 {

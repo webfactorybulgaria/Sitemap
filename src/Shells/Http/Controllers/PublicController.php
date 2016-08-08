@@ -1,6 +1,6 @@
 <?php
 
-namespace TypiCMS\Modules\Sitemap\Custom\Http\Controllers;
+namespace TypiCMS\Modules\Sitemap\Shells\Http\Controllers;
 
 use TypiCMS\Modules\Sitemap\Http\Controllers\PublicController as Base;
 

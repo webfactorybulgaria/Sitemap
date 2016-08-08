@@ -17,6 +17,6 @@ class ModuleProvider extends ServiceProvider
         /*
          * Register route service provider
          */
-        $this->app->register('TypiCMS\Modules\Sitemap\Custom\Providers\RouteServiceProvider');
+        $this->app->register('TypiCMS\Modules\Sitemap\Shells\Providers\RouteServiceProvider');
     }
 }
