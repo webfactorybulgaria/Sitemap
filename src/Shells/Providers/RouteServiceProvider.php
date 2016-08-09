@@ -2,9 +2,9 @@
 
 namespace TypiCMS\Modules\Sitemap\Shells\Providers;
 
-use TypiCMS\Modules\Sitemap\Providers\RouteServiceProvider as Base;
+use TypiCMS\Modules\Sitemap\Providers\RouteServiceProvider as BaseClass;
 
-class RouteServiceProvider extends Base
+class RouteServiceProvider extends BaseClass
 {
 
 }

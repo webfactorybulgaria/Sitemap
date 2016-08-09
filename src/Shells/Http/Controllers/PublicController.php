@@ -2,9 +2,9 @@
 
 namespace TypiCMS\Modules\Sitemap\Shells\Http\Controllers;
 
-use TypiCMS\Modules\Sitemap\Http\Controllers\PublicController as Base;
+use TypiCMS\Modules\Sitemap\Http\Controllers\PublicController as BaseClass;
 
-class PublicController extends Base
+class PublicController extends BaseClass
 {
 
 }

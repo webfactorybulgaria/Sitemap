@@ -2,9 +2,9 @@
 
 namespace TypiCMS\Modules\Sitemap\Shells\Providers;
 
-use TypiCMS\Modules\Sitemap\Providers\ModuleProvider as Base;
+use TypiCMS\Modules\Sitemap\Providers\ModuleProvider as BaseClass;
 
-class ModuleProvider extends Base
+class ModuleProvider extends BaseClass
 {
 
 }
